@@ -5,7 +5,7 @@ Clone the repo (<a href="https://github.com/mkoehne/PaintCodeConverter.git">http
 
 ![alt text](https://github.com/mkoehne/paintcodeconverter/blob/master/Screenshot.png "Screenshot")
 
-This application can converts your PaintCode sourcecode from Java to C# for Xamarin.Android.
+This application can convert your PaintCode sourcecode from Java to C# for Xamarin.Android.
 Just paste your code from PaintCode in the upper textfield and press convert.
 The converted sourcecode for Xamarin.Android in C# will be displayed in the bottom textfield.
 
